@@ -1,0 +1,9 @@
+v1.0
+delta                           ts_delta
+decay                           ts_decay
+decay_linear                    ts_decay_linear
+sum                             ts_sum
+stddev                          vec_stddev
+correlation                     ts_corr
+ts_argmin                       ts_arg_min
+ts_argmax                       ts_arg_max
