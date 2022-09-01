@@ -7,3 +7,10 @@ stddev                          vec_stddev
 correlation                     ts_corr
 ts_argmin                       ts_arg_min
 ts_argmax                       ts_arg_max
+
+v2.0
+indneutralize                   group_neutralize
+IndClass.subindustry            subindustry
+IndClass.sector                 sector
+IndClass.industry               industry
+SignedPower                     signed_power
