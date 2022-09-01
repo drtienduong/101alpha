@@ -14,3 +14,7 @@ IndClass.subindustry            subindustry
 IndClass.sector                 sector
 IndClass.industry               industry
 SignedPower                     signed_power
+
+v3.0
+product                         ts_product
+advX                            ts_mean(volume,X)
