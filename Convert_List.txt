@@ -21,3 +21,6 @@ advX                            ts_mean(volume,X)
 
 v4.0 fix bug
 vec_stddev                      ts_std_dev
+
+v5.0 normalize double
+ts_delta(close,5.243554)        ts_delta(close,5)
